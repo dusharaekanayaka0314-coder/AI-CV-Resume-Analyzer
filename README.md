@@ -7,7 +7,7 @@ The application analyzes a candidate's CV against a given Job Description and pr
 ## 🚀 Live Demo
 
 **Try the live application:**  
-https://ai-cv-resume-analyzer-vvgmtzbyiaumnq2suxbr4g.streamlit.app/
+https://ai-cv-resume-analyzer-p2trrkjmfbixjt2yimd9cd.streamlit.app/
 
 > The application is deployed using Streamlit Community Cloud.
 
